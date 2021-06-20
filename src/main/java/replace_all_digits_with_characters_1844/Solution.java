@@ -1,3 +1,5 @@
+package replace_all_digits_with_characters_1844;
+
 class Solution {
     public String replaceDigits(String s) {
         final char[] chars = s.toCharArray();
