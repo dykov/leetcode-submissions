@@ -2,10 +2,9 @@ package truncate_sentence_1816;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
-    private final Solution solution= new Solution();
+    private final Solution solution = new Solution();
 
     @Test
     void truncateSentenceTest1() {
